@@ -1,0 +1,20 @@
+{
+  "name": "lab1_101277584_comp3133",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.0.5",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "fast-csv": "^4.3.6",
+    "node-csv": "^0.1.2"
+  }
+}
